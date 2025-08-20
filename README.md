@@ -39,7 +39,7 @@ Published research at IEEE SoutheastCon 2025
 - Built with React Native, Python backend, and MongoDB
 - **Tech Stack:** React Native, Python, MongoDB, Groq API
 
-### [TFT Assistant - AI Gaming Companion](https://github.com/LouisY06/tft-assistant)
+### [TFT Assistant](https://github.com/LouisY06/tft-assistant)
 - Automated game data scraping and real-time strategy assistance
 - OCR-driven game state monitoring with voice assistant
 - Dynamic Q&A using Gemini API with live game data
