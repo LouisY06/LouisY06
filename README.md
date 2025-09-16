@@ -1,6 +1,6 @@
 # Hi there, I'm Louis Yu! 👋
 
-**Computer Science Student | Full-Stack Developer**
+**Computer Science Student @ Columbia| Full-Stack Developer**
 
 
 
