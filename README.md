@@ -2,10 +2,6 @@
 
 **Computer Science Student | Full-Stack Developer**
 
-CS Major at Columbia University with a passion for building impactful applications  
-Winner of Best in Nutrition Track at Columbia's Devfest 2025  
-Published research at IEEE SoutheastCon 2025
-
 ## About Me
 
 - Currently building full-stack applications and exploring AI integrations
